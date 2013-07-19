@@ -9,5 +9,9 @@
   ],
   "styles": [
     "css/hopscotch-0.1.1.css"
+  ],
+  "images": [
+    "img/sprite-green-0.3.png",
+    "img/sprite-orange-0.3.png"
   ]
 }
