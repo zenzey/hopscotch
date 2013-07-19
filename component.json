@@ -6,5 +6,8 @@
   "scripts": [
     "index.js",
     "js/hopscotch-0.1.1.js"
+  ],
+  "styles": [
+    "css/hopscotch-0.1.1.css"
   ]
 }
