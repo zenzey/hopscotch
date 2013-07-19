@@ -1,0 +1,10 @@
+{
+  "name": "hopscotch",
+  "repo": "zenzey/hopscotch",
+  "description": "fork of linkedin/hopscotch",
+  "version": "0.1.1",
+  "scripts": [
+    "index.js",
+    "js/hopscotch-0.1.1.js"
+  ]
+}
